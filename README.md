@@ -53,7 +53,6 @@ Following the requirements of the assignment, the project is divided into four m
 ## **Technologies Used**
 
 * **Language**: Python
-* **Libraries**:
 * **Data Handling**: Pandas, NumPy
 * **Machine Learning**: Scikit-learn
 * **Visualization**: Matplotlib, Seaborn (Static), Plotly (Interactive)
